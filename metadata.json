@@ -1,0 +1,6 @@
+{
+  "name": "久以计算器",
+  "description": "一款精致、安全的双态隐私计算器应用。正面是全功能日常计算器，通过特定密码与手势（如123456双击%）解锁高安全性的极简暗黑隐私空间，支持媒体文件（图片、视频、文档）在其中本地加密存储、文件夹管理、回收站恢复和系统级文件分享，并提供深度下载/保存分析。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
